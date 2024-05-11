@@ -11,7 +11,6 @@ TextEditorTripoli is a simple text editor application developed using Python. It
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/username/TextEditorTripoli.git
 
 2. Navigate to the project directory:
 
